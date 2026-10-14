@@ -10,16 +10,16 @@ The model is a three-armed body with the arms spaced evenly, 120 degrees apart, 
 
 ## Computational Design
 
-|   View    | Image |
-| :-------: | :---: |
-| Isometric | ![Isometric view of the three-arm bracket showing the raised tubular hub in the centre, three arms sloping down to rounded lugs with through holes, and an open pocket in each arm](images/three_arm_hub_bracket_isometric_view.JPG) |
-| Left | ![Left view of the bracket looking along one arm, with the raised hub at the top, the arm's open pocket ending in a lug hole at the centre, and the other two arms sloping down to either side](images/three_arm_hub_bracket_left_view.JPG) |
-| Right | ![Right view of the bracket showing the smooth curved outer wall between two arms in front, the raised hub behind it, and the two lugs with through holes at the left and right ends](images/three_arm_hub_bracket_right_view.JPG) |
-| Back | ![Back view of the bracket with the raised hub at the top, one arm at the left showing its open pocket and lug hole, and a long smooth sloping outer wall running down to the right](images/three_arm_hub_bracket_back_view.JPG) |
-| Front | ![Front view of the bracket with the raised hub at the top, one arm at the right showing its open pocket and lug hole, and a long smooth sloping outer wall running down to the left](images/three_arm_hub_bracket_front_view.JPG) |
-| Top | ![Top view of the bracket showing three arms spaced evenly around the ring-shaped hub, each with a recessed pocket and a rounded lug with a stepped hole](images/three_arm_hub_bracket_top_view.JPG) |
-| Bottom | ![Bottom view of the bracket showing the three-arm outline with the central bore and the three lug holes passing through the part](images/three_arm_hub_bracket_bottom_view.JPG) |
-| Section | ![Section view of the bracket cut through the hub and one arm, showing the vertical hub wall, the thin sloping pocket floor and walls of the arm, and the stepped hole in the lug](images/three_arm_hub_bracket_section_view.JPG) |
+|   View    |                                                                                                                    Image                                                                                                                    |
+| :-------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Isometric |    ![Isometric view of the three-arm bracket showing the raised tubular hub in the centre, three arms sloping down to rounded lugs with through holes, and an open pocket in each arm](images/three_arm_hub_bracket_isometric_view.JPG)     |
+|   Left    | ![Left view of the bracket looking along one arm, with the raised hub at the top, the arm's open pocket ending in a lug hole at the centre, and the other two arms sloping down to either side](images/three_arm_hub_bracket_left_view.JPG) |
+|   Right   |     ![Right view of the bracket showing the smooth curved outer wall between two arms in front, the raised hub behind it, and the two lugs with through holes at the left and right ends](images/three_arm_hub_bracket_right_view.JPG)      |
+|   Back    |      ![Back view of the bracket with the raised hub at the top, one arm at the left showing its open pocket and lug hole, and a long smooth sloping outer wall running down to the right](images/three_arm_hub_bracket_back_view.JPG)       |
+|   Front   |     ![Front view of the bracket with the raised hub at the top, one arm at the right showing its open pocket and lug hole, and a long smooth sloping outer wall running down to the left](images/three_arm_hub_bracket_front_view.JPG)      |
+|    Top    |                    ![Top view of the bracket showing three arms spaced evenly around the ring-shaped hub, each with a recessed pocket and a rounded lug with a stepped hole](images/three_arm_hub_bracket_top_view.JPG)                     |
+|  Bottom   |                              ![Bottom view of the bracket showing the three-arm outline with the central bore and the three lug holes passing through the part](images/three_arm_hub_bracket_bottom_view.JPG)                               |
+|  Section  |      ![Section view of the bracket cut through the hub and one arm, showing the vertical hub wall, the thin sloping pocket floor and walls of the arm, and the stepped hole in the lug](images/three_arm_hub_bracket_section_view.JPG)      |
 
 ---
 
@@ -28,6 +28,20 @@ The model is a three-armed body with the arms spaced evenly, 120 degrees apart, 
 | Purpose |               Name                |
 | :-----: | :-------------------------------: |
 | Design  | SolidWorks 2024 (Student Version) |
+
+---
+
+## Feature Tree
+
+| No  | Name |
+| :-: | :--: |
+
+---
+
+## Feature Tree Image
+
+| No  | Image |
+| :-: | :---: |
 
 ---
 
@@ -50,20 +64,6 @@ The design of the three-arm bracket was developed as a geometric prototype. That
 ## Future Improvements
 
 The first step is to decide what the bracket will carry, so that the bore diameter, the bolt circle, and the fastener size can be taken from the mating shaft, bearing, or frame instead of being set by eye. The stepped lug holes can then be replaced with standard counterbores for a chosen bolt, and the hub can be given a bearing seat, a keyway, or a set-screw hole if it has to hold a rotating part. A static stress analysis with the loads applied at the lugs would show how thin the pocket walls and floors can safely be, and how deep the pockets can go to save weight. Draft angles and generous fillets should be added if the part is to be cast, and a 3D-printed prototype could be used to check the fit with the mating parts before moving to a final material and process.
-
----
-
-## Feature Tree
-
-| No  | Name |
-| :-: | :--: |
-
----
-
-## Feature Tree Image
-
-| No  | Image |
-| :-: | :---: |
 
 ---
 

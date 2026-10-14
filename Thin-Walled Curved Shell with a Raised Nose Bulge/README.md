@@ -10,15 +10,15 @@ The model is a hollow, thin-walled body with a flat base. In plan it is narrow a
 
 ## Computational Design
 
-|   View    | Image |
-| :-------: | :---: |
+|   View    |                                                                                                               Image                                                                                                               |
+| :-------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Isometric | ![Isometric view of the thin-walled shell showing the arched top, the rounded nose, a raised trapezoid-shaped bulge inside a curved groove, and speckled grey bands along the edges](images/thin_walled_shell_isometric_view.JPG) |
-|   Right   | ![Right side view of the shell showing the gently arched top profile, a raised triangular bulge at the rounded nose end, and a straight vertical cut at the wide end](images/thin_walled_shell_right_view.JPG) |
-|   Back    | ![Back view of the shell showing its thin walls around a hollow interior, two raised shoulders with a lower channel between them, and the flat-topped bulge rising at the nose beyond](images/thin_walled_shell_back_view.JPG) |
-|   Front   | ![Front view of the shell showing the rounded nose, the flat-topped bulge above a curved groove, and the two arched shoulders on either side](images/thin_walled_shell_front_view.JPG) |
-|    Top    | ![Top view of the shell showing the tapered outline that narrows to a rounded nose, the U-shaped outline of the bulge near the nose, and speckled grey bands along the edges](images/thin_walled_shell_top_view.JPG) |
-|  Bottom   | ![Bottom view of the shell showing a plain, flat base that widens from a rounded nose to a straight edge](images/thin_walled_shell_bottom_view.JPG) |
-|  Section  | ![Section view of the shell cut open along its length, showing the thin wall outlined in blue around a hollow interior and the bulge near the nose](images/thin_walled_shell_section_view.JPG) |
+|   Right   |          ![Right side view of the shell showing the gently arched top profile, a raised triangular bulge at the rounded nose end, and a straight vertical cut at the wide end](images/thin_walled_shell_right_view.JPG)           |
+|   Back    |  ![Back view of the shell showing its thin walls around a hollow interior, two raised shoulders with a lower channel between them, and the flat-topped bulge rising at the nose beyond](images/thin_walled_shell_back_view.JPG)   |
+|   Front   |                      ![Front view of the shell showing the rounded nose, the flat-topped bulge above a curved groove, and the two arched shoulders on either side](images/thin_walled_shell_front_view.JPG)                       |
+|    Top    |       ![Top view of the shell showing the tapered outline that narrows to a rounded nose, the U-shaped outline of the bulge near the nose, and speckled grey bands along the edges](images/thin_walled_shell_top_view.JPG)        |
+|  Bottom   |                                        ![Bottom view of the shell showing a plain, flat base that widens from a rounded nose to a straight edge](images/thin_walled_shell_bottom_view.JPG)                                        |
+|  Section  |                  ![Section view of the shell cut open along its length, showing the thin wall outlined in blue around a hollow interior and the bulge near the nose](images/thin_walled_shell_section_view.JPG)                   |
 
 ---
 
@@ -27,6 +27,20 @@ The model is a hollow, thin-walled body with a flat base. In plan it is narrow a
 | Purpose |               Name                |
 | :-----: | :-------------------------------: |
 | Design  | SolidWorks 2024 (Student Version) |
+
+---
+
+## Feature Tree
+
+| No  | Name |
+| :-: | :--: |
+
+---
+
+## Feature Tree Image
+
+| No  | Image |
+| :-: | :---: |
 
 ---
 
@@ -53,20 +67,6 @@ The first step is to decide what the part is for, such as a hood panel, a fairin
 
 ---
 
-## Feature Tree
-
-| No  | Name |
-| :-: | :--: |
-
----
-
-## Feature Tree Image
-
-| No  | Image |
-| :-: | :---: |
-
----
-
 ## Acknowledgements
 
 I would like to thank the [CAD CAM Tutorials](https://www.youtube.com/c/CADCAMTutorials) YouTube channel for its tutorials and learning resources, and [Mr. Md. Abdus Salam](https://mpe.iutoic-dhaka.edu/profile/salam/education), Drafting Instructor, Department of Mechanical and Production Engineering, Islamic University of Technology, for his guidance and support, and for his assistance in our ME 4210 3D Solid Modeling and Assembling lab course. I took assistance from [Claude](https://claude.ai), an AI assistant by [Anthropic](https://www.anthropic.com), in preparing this documentation. I provided the template, and Claude followed it and my instructions.
@@ -77,7 +77,7 @@ I would like to thank the [CAD CAM Tutorials](https://www.youtube.com/c/CADCAMTu
 
 [^1]: [Hood scoop - Wikipedia](https://en.wikipedia.org/wiki/Hood_scoop)
 
-[^2]: [Hood (car) - Wikipedia](https://en.wikipedia.org/wiki/Hood_(car))
+[^2]: [Hood (car) - Wikipedia](<https://en.wikipedia.org/wiki/Hood_(car)>)
 
 [^3]: [Motorcycle fairing - Wikipedia](https://en.wikipedia.org/wiki/Motorcycle_fairing)
 

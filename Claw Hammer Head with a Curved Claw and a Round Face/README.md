@@ -31,6 +31,20 @@ The model is a claw-hammer-style head without an eye for a handle. At one end, a
 
 ---
 
+## Feature Tree
+
+| No  | Name |
+| :-: | :--: |
+
+---
+
+## Feature Tree Image
+
+| No  | Image |
+| :-: | :---: |
+
+---
+
 ## Applications [^1][^2][^3][^4][^5]
 
 - Driving and Pulling Nails in General Carpentry
@@ -52,20 +66,6 @@ The design of the claw hammer head was developed as a geometric prototype. Thatâ
 ## Future Improvements
 
 An eye should be added through the head between the face and the claw, so that a handle (wood, fiberglass, or steel) and a wedge can be modeled and assembled with it. The cheeks of the head should be added around the eye, and the face should get a slight convexity, a chamfered edge, and optionally a milled pattern for grip. The curved claw can be compared with a straighter rip claw for prying, and the dimensions can be set to a standard head weight, such as 16 oz, with the face and claw weighing about the same for good balance. A steel material should then be assigned, and a simulation of striking and nail-pulling loads should be run to check the neck and cheek areas, where the head is under the most stress. Finally, 2D drawings with dimensions and tolerances can be prepared for manufacturing.
-
----
-
-## Feature Tree
-
-| No  | Name |
-| :-: | :--: |
-
----
-
-## Feature Tree Image
-
-| No  | Image |
-| :-: | :---: |
 
 ---
 

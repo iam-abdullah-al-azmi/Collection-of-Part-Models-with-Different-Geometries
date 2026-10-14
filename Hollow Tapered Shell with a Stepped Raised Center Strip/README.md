@@ -10,16 +10,16 @@ The model is a hollow, thin-walled shell that is widest and tallest at a flat, o
 
 ## Computational Design
 
-|   View    | Image |
-| :-------: | :---: |
+|   View    |                                                                                                       Image                                                                                                        |
+| :-------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Isometric | ![Isometric view of the hollow tapered shell showing the dark curved body, the raised light tan strip along its center, and the rounded step edges with white highlights](images/stepped_shell_isometric_view.JPG) |
-| Left | ![Left side view of the shell showing the curved top profile sloping down from the tall flat rear edge to the nose, with the stepped bands and the step-down near the nose](images/stepped_shell_left_view.JPG) |
-| Right | ![Right side view of the shell, mirroring the left view, with the nose on the left and the flat rear edge on the right, and the stepped bands along the curved top profile](images/stepped_shell_right_view.JPG) |
-| Back | ![Back view of the shell showing the open flat rear face, the thin outer wall around a hollow interior, and the stepped outline with a raised center portion](images/stepped_shell_back_view.JPG) |
-| Front | ![Front view of the shell showing the stepped silhouette, with the narrower tan strip raised above the dark body, whose rounded edge sweeps up toward both sides](images/stepped_shell_front_view.JPG) |
-| Top | ![Top view of the shell showing a tapered outline that is widest at the flat rear edge, with a curved nose and a dark U-shaped band wrapped around the lighter central strip](images/stepped_shell_top_view.JPG) |
-| Bottom | ![Bottom view of the shell showing a plain, smooth, closed dark underside with a flat rear edge and a curved nose](images/stepped_shell_bottom_view.JPG) |
-| Section | ![Section view of the shell cut along its center plane, showing the thin wall following the stepped top profile and the underside, with a hollow interior](images/stepped_shell_section_view.JPG) |
+|   Left    |  ![Left side view of the shell showing the curved top profile sloping down from the tall flat rear edge to the nose, with the stepped bands and the step-down near the nose](images/stepped_shell_left_view.JPG)   |
+|   Right   |  ![Right side view of the shell, mirroring the left view, with the nose on the left and the flat rear edge on the right, and the stepped bands along the curved top profile](images/stepped_shell_right_view.JPG)  |
+|   Back    |         ![Back view of the shell showing the open flat rear face, the thin outer wall around a hollow interior, and the stepped outline with a raised center portion](images/stepped_shell_back_view.JPG)          |
+|   Front   |       ![Front view of the shell showing the stepped silhouette, with the narrower tan strip raised above the dark body, whose rounded edge sweeps up toward both sides](images/stepped_shell_front_view.JPG)       |
+|    Top    |  ![Top view of the shell showing a tapered outline that is widest at the flat rear edge, with a curved nose and a dark U-shaped band wrapped around the lighter central strip](images/stepped_shell_top_view.JPG)  |
+|  Bottom   |                              ![Bottom view of the shell showing a plain, smooth, closed dark underside with a flat rear edge and a curved nose](images/stepped_shell_bottom_view.JPG)                              |
+|  Section  |         ![Section view of the shell cut along its center plane, showing the thin wall following the stepped top profile and the underside, with a hollow interior](images/stepped_shell_section_view.JPG)          |
 
 ---
 
@@ -28,6 +28,20 @@ The model is a hollow, thin-walled shell that is widest and tallest at a flat, o
 | Purpose |               Name                |
 | :-----: | :-------------------------------: |
 | Design  | SolidWorks 2024 (Student Version) |
+
+---
+
+## Feature Tree
+
+| No  | Name |
+| :-: | :--: |
+
+---
+
+## Feature Tree Image
+
+| No  | Image |
+| :-: | :---: |
 
 ---
 
@@ -52,20 +66,6 @@ The design of the stepped shell was developed as a geometric prototype. That’s
 ## Future Improvements
 
 The shell currently has no way of being attached to anything, so the next step is to decide what it covers and to add mounting features at the open rear, such as screw bosses, snap fits, or clips. A uniform wall thickness suited to the chosen material and draft angles on the vertical faces should then be applied so that the part can be molded, and ribs can be added inside to stiffen the large curved top surface. The shell should also be placed in an assembly with its mating part to check fit, gaps, and flushness along the stepped edges. The two-tone appearance could be produced with a painted or two-shot finish, and a 3D-printed prototype should be used to check the look and feel before any tooling is considered.
-
----
-
-## Feature Tree
-
-| No  | Name |
-| :-: | :--: |
-
----
-
-## Feature Tree Image
-
-| No  | Image |
-| :-: | :---: |
 
 ---
 

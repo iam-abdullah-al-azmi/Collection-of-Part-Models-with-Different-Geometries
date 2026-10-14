@@ -10,16 +10,16 @@ The model is a short cylindrical body with a large bore that passes straight thr
 
 ## Computational Design
 
-|   View    | Image |
-| :-------: | :---: |
+|   View    |                                                                                                                        Image                                                                                                                        |
+| :-------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Isometric | ![Isometric view of the housing showing the large central bore, three rounded lugs with holes at the top end, matching lugs at the bottom end, and the side boss with a stepped hole and two small holes](images/lugged_housing_isometric_view.JPG) |
-| Left | ![Left side view of the housing showing a short cylindrical body with an upper and a lower lug on each side, an open gap between them, and the round side boss sticking out on the right](images/lugged_housing_left_view.JPG) |
-| Right | ![Right side view of the housing showing a short cylindrical body with an upper and a lower lug on each side, an open gap between them, and the round side boss sticking out on the left](images/lugged_housing_right_view.JPG) |
-| Back | ![Back view of the housing showing the plain cylindrical wall with one round hole at its center, a pair of lugs in the middle, and a pair of lugs on each side](images/lugged_housing_back_view.JPG) |
-| Front | ![Front view of the housing showing the circular face of the side boss with a stepped central hole and two small holes below it, between the upper and lower lugs](images/lugged_housing_front_view.JPG) |
-| Top | ![Top view of the housing showing the large through bore, three rounded lugs spaced 120 degrees apart each with a round hole, and the side boss on the left](images/lugged_housing_top_view.JPG) |
-| Bottom | ![Bottom view of the housing showing the large through bore, three rounded lugs each with a round hole, and the side boss on the right](images/lugged_housing_bottom_view.JPG) |
-| Section | ![Section view of the housing cut in half along the bore axis, showing the uniform wall thickness, the smooth bore, a small hole opening in the bore wall, and one pair of lugs with a hole](images/lugged_housing_section_view.JPG) |
+|   Left    |           ![Left side view of the housing showing a short cylindrical body with an upper and a lower lug on each side, an open gap between them, and the round side boss sticking out on the right](images/lugged_housing_left_view.JPG)            |
+|   Right   |           ![Right side view of the housing showing a short cylindrical body with an upper and a lower lug on each side, an open gap between them, and the round side boss sticking out on the left](images/lugged_housing_right_view.JPG)           |
+|   Back    |                        ![Back view of the housing showing the plain cylindrical wall with one round hole at its center, a pair of lugs in the middle, and a pair of lugs on each side](images/lugged_housing_back_view.JPG)                         |
+|   Front   |                      ![Front view of the housing showing the circular face of the side boss with a stepped central hole and two small holes below it, between the upper and lower lugs](images/lugged_housing_front_view.JPG)                       |
+|    Top    |                          ![Top view of the housing showing the large through bore, three rounded lugs spaced 120 degrees apart each with a round hole, and the side boss on the left](images/lugged_housing_top_view.JPG)                           |
+|  Bottom   |                                   ![Bottom view of the housing showing the large through bore, three rounded lugs each with a round hole, and the side boss on the right](images/lugged_housing_bottom_view.JPG)                                    |
+|  Section  |        ![Section view of the housing cut in half along the bore axis, showing the uniform wall thickness, the smooth bore, a small hole opening in the bore wall, and one pair of lugs with a hole](images/lugged_housing_section_view.JPG)         |
 
 ---
 
@@ -28,6 +28,20 @@ The model is a short cylindrical body with a large bore that passes straight thr
 | Purpose |               Name                |
 | :-----: | :-------------------------------: |
 | Design  | SolidWorks 2024 (Student Version) |
+
+---
+
+## Feature Tree
+
+| No  | Name |
+| :-: | :--: |
+
+---
+
+## Feature Tree Image
+
+| No  | Image |
+| :-: | :---: |
 
 ---
 
@@ -55,20 +69,6 @@ The bore should be sized to a standard bearing or bushing, with a toleranced fit
 
 ---
 
-## Feature Tree
-
-| No  | Name |
-| :-: | :--: |
-
----
-
-## Feature Tree Image
-
-| No  | Image |
-| :-: | :---: |
-
----
-
 ## Acknowledgements
 
 I would like to thank the [CAD CAM Tutorials](https://www.youtube.com/c/CADCAMTutorials) YouTube channel for its tutorials and learning resources, and [Mr. Md. Abdus Salam](https://mpe.iutoic-dhaka.edu/profile/salam/education), Drafting Instructor, Department of Mechanical and Production Engineering, Islamic University of Technology, for his guidance and support, and for his assistance in our ME 4210 3D Solid Modeling and Assembling lab course. I took assistance from [Claude](https://claude.ai), an AI assistant by [Anthropic](https://www.anthropic.com), in preparing this documentation. I provided the template, and Claude followed it and my instructions.
@@ -79,9 +79,9 @@ I would like to thank the [CAD CAM Tutorials](https://www.youtube.com/c/CADCAMTu
 
 [^1]: [Pillow block bearing - Wikipedia](https://en.wikipedia.org/wiki/Plummer_block)
 
-[^2]: [Bearing (mechanical) - Wikipedia](https://en.wikipedia.org/wiki/Bearing_(mechanical))
+[^2]: [Bearing (mechanical) - Wikipedia](<https://en.wikipedia.org/wiki/Bearing_(mechanical)>)
 
-[^3]: [Plain bearing - Wikipedia](https://en.wikipedia.org/wiki/Bushing_(bearing))
+[^3]: [Plain bearing - Wikipedia](<https://en.wikipedia.org/wiki/Bushing_(bearing)>)
 
 [^4]: [Gear housing - Wikipedia](https://en.wikipedia.org/wiki/Gear_housing)
 

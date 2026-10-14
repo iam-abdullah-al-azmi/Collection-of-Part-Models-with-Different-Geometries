@@ -10,16 +10,16 @@ The model is a curved, boomerang-shaped arm with a large bore at the elbow and a
 
 ## Computational Design
 
-|   View    | Image |
-| :-------: | :---: |
-| Isometric | ![Isometric view of the bell crank showing a curved, thin-walled arm with a large bore at the elbow, a smaller bore at the end of each arm, and open windows between the bores](images/bell_crank_isometric_view.JPG) |
-| Left | ![Left side view of the bell crank showing a tall, narrow, smooth curved surface of uniform depth with no openings](images/bell_crank_left_view.JPG) |
-| Right | ![Right side view of the bell crank showing a tall, narrow, smooth surface of uniform depth with a faint horizontal line near the top where two surfaces meet](images/bell_crank_right_view.JPG) |
-| Back | ![Back view of the bell crank showing the arm outline with the large bore on the right, a long arm ending in a small bore on the left, a shorter arm ending in a small bore at the lower right, and open windows between the bores](images/bell_crank_back_view.JPG) |
-| Front | ![Front view of the bell crank showing the arm outline with the large bore on the left, a long arm ending in a small bore on the right, a shorter arm ending in a small bore at the lower left, and open windows between the bores](images/bell_crank_front_view.JPG) |
-| Top | ![Top view of the bell crank showing the arm edge-on as a narrow, plain strip with smooth shading and no openings](images/bell_crank_top_view.JPG) |
-| Bottom | ![Bottom view of the bell crank showing the arm edge-on as a narrow, plain strip with smooth shading and no openings](images/bell_crank_bottom_view.JPG) |
-| Section | ![Section view of the bell crank cut open through the large bore and one end bore, showing the thin cut walls in blue as half-round profiles and the inside of the curved outer wall](images/bell_crank_section_view.JPG) |
+|   View    |                                                        Image                                                        |
+| :-------: | :-----------------------------------------------------------------------------------------------------------------: |
+| Isometric | ![Isometric view of the Bell Crank with a Large Pivot Bore and Two End Bores](images/bell_crank_isometric_view.JPG) |
+|   Left    |   ![Left side view of the Bell Crank with a Large Pivot Bore and Two End Bores](images/bell_crank_left_view.JPG)    |
+|   Right   |  ![Right side view of the Bell Crank with a Large Pivot Bore and Two End Bores](images/bell_crank_right_view.JPG)   |
+|   Back    |      ![Back view of the Bell Crank with a Large Pivot Bore and Two End Bores](images/bell_crank_back_view.JPG)      |
+|   Front   |     ![Front view of the Bell Crank with a Large Pivot Bore and Two End Bores](images/bell_crank_front_view.JPG)     |
+|    Top    |       ![Top view of the Bell Crank with a Large Pivot Bore and Two End Bores](images/bell_crank_top_view.JPG)       |
+|  Bottom   |    ![Bottom view of the Bell Crank with a Large Pivot Bore and Two End Bores](images/bell_crank_bottom_view.JPG)    |
+|  Section  |   ![Section view of the Bell Crank with a Large Pivot Bore and Two End Bores](images/bell_crank_section_view.JPG)   |
 
 ---
 
@@ -28,6 +28,20 @@ The model is a curved, boomerang-shaped arm with a large bore at the elbow and a
 | Purpose |               Name                |
 | :-----: | :-------------------------------: |
 | Design  | SolidWorks 2024 (Student Version) |
+
+---
+
+## Feature Tree
+
+| No  | Name |
+| :-: | :--: |
+
+---
+
+## Feature Tree Image
+
+| No  | Image |
+| :-: | :---: |
 
 ---
 
@@ -52,20 +66,6 @@ The design of the bell crank was developed as a geometric prototype. That’s wh
 ## Future Improvements
 
 The arm lengths and the angle between the arms should first be set from the required motion ratio and travel of a real linkage. Bushings or bearings and a pivot pin can then be added to the large bore, with proper fits, and pin or rod-end connections to the two end bores. An assembly with the two connecting links and a motion study would verify the travel and show how the motion ratio changes as the lever swings. The wall thickness around the outline and the bores should be chosen with a stress analysis, together with a material choice and fillets at the sharp inner corners of the windows. A manufacturing method such as machining or casting should also be considered, because it decides how thin the walls can be.
-
----
-
-## Feature Tree
-
-| No  | Name |
-| :-: | :--: |
-
----
-
-## Feature Tree Image
-
-| No  | Image |
-| :-: | :---: |
 
 ---
 
